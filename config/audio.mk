@@ -50,5 +50,5 @@ $(foreach f, $(wildcard $(LOCAL_PATH)/2by2/*.mp3), \
 # Default Sounds
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.config.ringtone=Frail_Naysayer.mp3 \
-    ro.config.alarm_alert=Alarm003304.m4a \
-    ro.config.notification_sound=Notice003101.m4a
+    ro.config.alarm_alert=Alarm003301.m4a \
+    ro.config.notification_sound=Notice003205.m4a
