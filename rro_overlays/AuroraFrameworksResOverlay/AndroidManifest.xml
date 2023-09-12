@@ -6,7 +6,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     android:allowBackup="false"
     package="com.Aurora.FrameworksResOverlay">
-    <overlay android:isStatic="true" android:priority="9999" android:targetPackage="android"/>
+    <overlay android:isStatic="true" android:priority="9999" android:targetPackage="com.android.settings"/>
 
     <application android:hasCode="false"/>
 </manifest>
