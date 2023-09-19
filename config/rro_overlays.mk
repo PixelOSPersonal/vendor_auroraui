@@ -1,3 +1,4 @@
 # Aurora-side
 PRODUCT_PACKAGES += \
-    AuroraFrameworksResOverlay
+    AuroraFrameworksResOverlay \
+    AuroraSetupWizardOverlay
